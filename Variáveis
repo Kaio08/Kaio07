@@ -1,0 +1,16 @@
+endereco/String
+telefone/Int
+salario/Int
+cpf/Int
+preco/Int
+temperatura/Int
+casado/Boleana
+nascimento/Int
+vacinado/Boleana
+preco_gasolina/Int
+litros_gasolina/Int
+preco_pao/Int
+total_compras/Int
+idade/Int
+data_contrato/Int
+nivel_escolaridade/String
